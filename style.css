@@ -1,26 +1,67 @@
-#main{
+.main{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
     font-family:'EB Garamond', serif ;
     color: rgb(255, 255, 255);
+    font-weight: 200;
+}
+
+img{
+    filter:blur(1.5rem);
+    filter:brightness(0.2);
+
+}
+
+.title-about-me{
+    margin-left: 40px;
 }
 
 .about-me {
+    border-radius: 15px;
     font-family: 'Source Sans Pro', sans-serif;
     color: white;
-    font-size: 14px;
+    font-size: 10px;
     font-weight: 200;
+    background-image: url(images/gardening-red-tulip-wallpaper-flowers-blooming-tulip-flowers-wallpaper-hd-1920x1080.jpg);
+   
+}
+
+.title-studies{
+    margin-left: 40px;
 }
 
 .studies{
+    border-radius: 15px;
     font-family: 'Source Sans Pro', sans-serif;
     color: white;
-    font-size: 14px;
+    font-size: 10px;
     font-weight: 200;
+    background-image: url(images/gardening-red-tulip-wallpaper-flowers-blooming-tulip-flowers-wallpaper-hd-1920x1080.jpg);
+}
 
+.title-professional-experiences{
+    margin-left: 40px;
 }
 
 .professional-experiences{
+    border-radius: 15px;
     font-family: 'Source Sans Pro', sans-serif;
     color: white;
-    font-size: 14px;
+    font-size: 10px;
     font-weight: 200;
+    background-image: url(images/gardening-red-tulip-wallpaper-flowers-blooming-tulip-flowers-wallpaper-hd-1920x1080.jpg);
+}
+
+.title-Skills{
+    margin-left: 40px;
+}
+
+.Skills{
+    border-radius: 15px;
+    font-family: 'Source Sans Pro', sans-serif;
+    color: white;
+    font-size: 10px;
+    font-weight: 200;
+    background-image: url(images/gardening-red-tulip-wallpaper-flowers-blooming-tulip-flowers-wallpaper-hd-1920x1080.jpg);
 }
