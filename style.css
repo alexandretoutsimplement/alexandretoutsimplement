@@ -65,3 +65,16 @@ img{
     font-weight: 200;
     background-image: url(images/gardening-red-tulip-wallpaper-flowers-blooming-tulip-flowers-wallpaper-hd-1920x1080.jpg);
 }
+
+.title-Contact-me{
+    margin-left: 40px;
+}
+
+.Contact-me{
+    border-radius: 15px;
+    font-family: 'Source Sans Pro', sans-serif;
+    color: white;
+    font-size: 10px;
+    font-weight: 200;
+    background-image: url(images/gardening-red-tulip-wallpaper-flowers-blooming-tulip-flowers-wallpaper-hd-1920x1080.jpg);
+}
